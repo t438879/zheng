@@ -260,7 +260,7 @@
         <dependency>
             <groupId>com.baidu.unbiz</groupId>
             <artifactId>fluent-validator</artifactId>
-            <version>1.0.6</version>
+            <version>1.0.9</version>
         </dependency>
         <!-- Thymeleaf -->
         <dependency>
